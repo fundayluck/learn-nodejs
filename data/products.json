@@ -1,1 +1,14 @@
-[{"title":"book"},{"title":"book 2"},{"title":"book"},{"title":"book 3"}]
+[
+  {
+    "title": "book",
+    "imageUrl": "https://asset.kompas.com/crops/mTnVdoYXCoN9ElxrsEDbdoY7y0s=/65x65:865x599/750x500/data/photo/2017/06/28/1265845835.jpg",
+    "description": "this is my first book",
+    "price": "20"
+  },
+  {
+    "title": "book 2",
+    "imageUrl": "https://asset.kompas.com/crops/mTnVdoYXCoN9ElxrsEDbdoY7y0s=/65x65:865x599/750x500/data/photo/2017/06/28/1265845835.jpg",
+    "description": "this is an awesome book",
+    "price": "11.00"
+  }
+]
